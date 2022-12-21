@@ -8,6 +8,9 @@ Ex: | | Basic_A0 | Basic_A4 | | Standard_A0 | Standard_A4 | | Standard_A5 | Stan
 3. Issue I faced on this task:
 - Select the Runbook version that is not compatible with the Module in Automation Account
 - Add Role for User-assigned managed identity in the wrong way, so running fails
+4. I refer to this link. However, Azure has changed over time and the approach has been improved
+
+https://github.com/uglide/azure-content/blob/master/articles/virtual-machines/virtual-machines-windows-vertical-scaling-automation.md
 
 # B. Summary of flow
 ## I> Create User-assigned managed identity
